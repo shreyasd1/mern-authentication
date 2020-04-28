@@ -1,0 +1,7 @@
+export const SUCCESS_REGISTER = 'SUCCESS_REGISTER'
+export const ERROR_REGISTER = 'ERROR_REGISTER'
+export const SUCCESS_LOGIN = 'SUCCESS_LOGIN'
+export const ERROR_LOGIN = 'ERROR_LOGIN'
+export const USER_DATA = 'USER_DATA'
+export const ERROR_USER_DATA = 'ERROR_USER_DATA'
+export const LOGOUT = 'LOGOUT'
